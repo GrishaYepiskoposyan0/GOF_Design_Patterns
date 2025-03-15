@@ -1,0 +1,2 @@
+The Singleton Pattern is a powerful design pattern that ensures a class has only one instance and provides a global point of access to that instance. 
+It is particularly useful in scenarios where a single instance of a class is needed to coordinate actions, such as managing configuration settings, logging, or database connections.

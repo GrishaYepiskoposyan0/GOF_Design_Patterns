@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoF_Design_Patterns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cf4b19e4eb8430e258b7d611b0aa379b25c5f4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoF_Design_Patterns")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoF_Design_Patterns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

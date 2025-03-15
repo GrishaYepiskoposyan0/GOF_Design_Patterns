@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoF_Design_Patterns", "GoF_Design_Patterns\GoF_Design_Patterns.csproj", "{C95128AC-6E3D-4DEF-B2FC-6A36D566A38D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C95128AC-6E3D-4DEF-B2FC-6A36D566A38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95128AC-6E3D-4DEF-B2FC-6A36D566A38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95128AC-6E3D-4DEF-B2FC-6A36D566A38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95128AC-6E3D-4DEF-B2FC-6A36D566A38D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

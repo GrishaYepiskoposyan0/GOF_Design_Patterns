@@ -1,0 +1,14 @@
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/bin/Debug/net8.0/GoF_Design_Patterns
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/bin/Debug/net8.0/GoF_Design_Patterns.deps.json
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/bin/Debug/net8.0/GoF_Design_Patterns.runtimeconfig.json
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/bin/Debug/net8.0/GoF_Design_Patterns.dll
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/bin/Debug/net8.0/GoF_Design_Patterns.pdb
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/obj/Debug/net8.0/GoF_Design_Patterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/obj/Debug/net8.0/GoF_Design_Patterns.AssemblyInfoInputs.cache
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/obj/Debug/net8.0/GoF_Design_Patterns.AssemblyInfo.cs
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/obj/Debug/net8.0/GoF_Design_Patterns.csproj.CoreCompileInputs.cache
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/obj/Debug/net8.0/GoF_Design_Patterns.dll
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/obj/Debug/net8.0/refint/GoF_Design_Patterns.dll
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/obj/Debug/net8.0/GoF_Design_Patterns.pdb
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/obj/Debug/net8.0/GoF_Design_Patterns.genruntimeconfig.cache
+/Users/user/RiderProjects/GoF_Design_Patterns/GoF_Design_Patterns/obj/Debug/net8.0/ref/GoF_Design_Patterns.dll
